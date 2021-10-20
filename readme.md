@@ -9,6 +9,6 @@ Not sure if I ever want to make it into cross-platform yet.
 Entey point: `Program.Main()` of `./src/Program.cs`.  
 You can build with the dotnet command line tools or use a preferred complier.  
   
-This projects follows a loose coding convention, mostly based on the [C# at Google Style Guide](https://google.github.io/styleguide/csharp-style.html)  
+This projects follows a loose coding convention based on the defined styles in [styleguide.md](styleguide.md)  
 not because of anything, simply I like it better then the official Microsoft one.  
 The convention is not forced.
