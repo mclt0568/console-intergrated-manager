@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace console_intergrated_manager{
+namespace ConsoleIntergratedManager{
 
     class Program{
         static void Main(string[] args){
